@@ -51,3 +51,4 @@ string[] AskArray() {
     Write("Введите значения через пробел: ");
     return ReadLine().Split(" ");
 }
+Diagram.drawio.png
